@@ -16,17 +16,16 @@
 title: Free Palestine
 email: fromtherivertothesea@freepalestine.jp
 description: >- # this means to ignore newlines until "baseurl:"
-  The Free Palestine movement in Japan!
   FROM THE RIVER TO THE SEA
   PALESTINE WILL BE FREE!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username:
-github_username: freepalestinejp
+# github_username: freepalestinejp
 
 # Build settings
 markdown: kramdown
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
 
