@@ -56,7 +56,11 @@ export const links = [{
   {
     name: "Nestlé",
     url: "nestle"
-  }
+  },
+  {
+    name: "Wix",
+    url: "wix"
+  },
   /* {
     name: "スポーツ",
     url: "sports",
