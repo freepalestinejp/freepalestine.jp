@@ -1,39 +1,30 @@
-<html>
+<html lang="ja">
+
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-body, html {
-  height: 100%;
-  margin: 0;
-}
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>FreePalestine.jp</title>
 
-.bg {
-  /* The image used */
-  background-image: url("{{site.baseurl}}/assets/img/flag.jpg");
+  <script type="module" defer src="/assets/js/main.js">
+  </script>
 
-  /* Full height */
-  height: 100%;
-
-  /* Center and scale the image nicely */
-  background-position: left;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
-@media (orientation: portrait) {
-  .bg {
-    background-image: url("{{site.baseurl}}/assets/img/flag_vertical.jpg");
-    background-position: top;
-  }
-}
-
-</style>
+  <link rel="stylesheet" href="/assets/css/main.css" />
 </head>
+
 <body>
-
-<div class="bg"></div>
-
-<!-- p>Free Palestine | 川から海まで</p -->
-
+  <main>
+    <div class="logoContainer">
+      <a href="/flag"><img class="logo" src="/assets/img/flag.jpg" alt="Palestinian flag"/></a>
+    </div>
+    <div class="start">
+      <div>FreePalestine.jp</div>
+    </div>
+    <div class="about">
+      <div>パレスチナ関連リンク・情報まとめ</div>
+    </div>
+    <div class="links" id="links">
+    </div>
+  </main>
 </body>
+
 </html>

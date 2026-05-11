@@ -1,0 +1,32 @@
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/assets/css/main.css" />
+    <link rel="stylesheet" href="/assets/css/slides.css" />
+    <title>{{ page.theme }}</title>
+  </head>
+  <body>
+    <div class="slideshow-container">
+      {% assign numOfSlides = page.numOfSlides %}
+
+      {% for i in (1..numOfSlides) %}
+      <div class="slides fade">
+        <div class="numbertext">{{ i }} / {{ numOfSlides }}</div>
+        <img src="/assets/img/{{ page.theme }}/{% if page.prefix %}{{ page.theme }}-{% endif %}{{ i }}.png" style="max-width: 100%; height: auto; ">
+        <!-- div class="text">Caption Text</div -->
+      </div>
+      {% endfor %}
+
+      <a class="prev" onclick="plusSlides(-1)">❮</a>
+      <a class="next" onclick="plusSlides(1)">❯</a>
+    </div>
+    <br>
+    <div style="text-align:center">
+    {% for i in (1..numOfSlides) %}
+      <span class="dot" onclick="currentSlide({{ i }})"></span>
+    {% endfor %}
+    </div>
+    <script src="/assets/js/slides.js">
+    </script>
+  </body>
+</html>
