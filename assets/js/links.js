@@ -61,6 +61,10 @@ export const links = [{
     name: "Wix",
     url: "wix"
   },
+  {
+    name: "OpenAI",
+    url: "openai"
+  },
   /* {
     name: "スポーツ",
     url: "sports",
