@@ -52,6 +52,10 @@ export const links = [{
   {
     name: "iPhone 17",
     url: "iphone17"
+  },
+  {
+    name: "Nestlé",
+    url: "nestle"
   }
   /* {
     name: "スポーツ",
