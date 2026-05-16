@@ -46,6 +46,10 @@ export const links = [{
     url: "mcdonalds"
   },
   {
+    name: "トモズ",
+    url: "tomods"
+  },
+  {
     name: "Spotify",
     url: "spotify"
   },
