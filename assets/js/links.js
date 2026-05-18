@@ -26,7 +26,7 @@ export const links = [{
     url: "flag",
   }, */
   {
-    name: "BDS対象",
+    name: "BDSボイコット",
     url: "bds",
   },
   {
@@ -34,20 +34,24 @@ export const links = [{
     url: "press",
   },
   {
+    name: "トモズ",
+    url: "tomods",
+    image: "/assets/img/bds-priority.png"
+  },
+  {
     name: "Zara",
-    url: "zara"
+    url: "zara",
+    image: "/assets/img/bds-organic.png"
   },
   {
     name: "Coca Cola",
-    url: "coke"
+    url: "coke",
+    image: "/assets/img/bds-organic.png"
   },
   {
     name: "McDonalds",
-    url: "mcdonalds"
-  },
-  {
-    name: "トモズ",
-    url: "tomods"
+    url: "mcdonalds",
+    image: "/assets/img/bds-organic.png"
   },
   {
     name: "Spotify",
@@ -63,7 +67,8 @@ export const links = [{
   },
   {
     name: "Wix",
-    url: "wix"
+    url: "wix",
+    image: "/assets/img/bds-organic.png"
   },
   {
     name: "OpenAI",
