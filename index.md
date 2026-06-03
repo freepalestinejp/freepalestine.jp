@@ -20,7 +20,7 @@
       <div>FreePalestine.jp</div>
     </div>
     <div class="about">
-      <div>パレスチナ関連リンク・情報まとめ</div>
+      <div>忙しい人のためのボイコットガイド ― パレスチナのためにできること</div>
     </div>
     <div class="links" id="links">
     </div>
