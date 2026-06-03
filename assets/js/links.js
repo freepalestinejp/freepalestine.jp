@@ -54,6 +54,11 @@ export const links = [{
     image: "/assets/img/bds-organic.png"
   },
   {
+    name: "Wix",
+    url: "wix",
+    image: "/assets/img/bds-organic.png"
+  },
+  {
     name: "Spotify",
     url: "spotify"
   },
@@ -64,11 +69,6 @@ export const links = [{
   {
     name: "Nestlé",
     url: "nestle"
-  },
-  {
-    name: "Wix",
-    url: "wix",
-    image: "/assets/img/bds-organic.png"
   },
   {
     name: "OpenAI",
