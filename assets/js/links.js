@@ -74,6 +74,10 @@ export const links = [{
     name: "OpenAI",
     url: "openai"
   },
+  {
+    name: "Wikipedia",
+    url: "wikipedia"
+  }
   /* {
     name: "スポーツ",
     url: "sports",
