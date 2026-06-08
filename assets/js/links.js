@@ -72,7 +72,7 @@ export const links = [{
     url: "iphone17"
   },
   {
-    name: "Nestlé",
+    name: "Ikea、Nestlé",
     url: "nestle"
   },
   {
