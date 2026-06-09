@@ -39,6 +39,11 @@ export const links = [{
     image: "/assets/img/bds-priority.png"
   },
   {
+    name: "Palantir",
+    url: "palantir",
+    image: "/assets/img/bds-priority.png"
+  },
+  {
     name: "airbnb & booking・com",
     url: "airb_booking",
     image: "/assets/img/bds-pressure.png"
