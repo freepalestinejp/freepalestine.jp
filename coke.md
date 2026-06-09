@@ -1,6 +1,6 @@
 ---
 layout: slides
 theme: coke
-numOfSlides: 5
+numOfSlides: 8
 ---
 {{ content }}
