@@ -30,10 +30,6 @@ export const links = [{
     url: "bds",
   },
   {
-    name: "Journalists ジョルノーサイド",
-    url: "press",
-  },
-  {
     name: "トモズ",
     url: "tomods",
     image: "/assets/img/bds-priority.png"
@@ -91,6 +87,10 @@ export const links = [{
   {
     name: "フォーム",
     url: "goog/form"
+  },
+  {
+    name: "Journalists ジョルノーサイド",
+    url: "press",
   }
   /* {
     name: "スポーツ",
