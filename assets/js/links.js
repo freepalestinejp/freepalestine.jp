@@ -87,6 +87,10 @@ export const links = [{
   {
     name: "Wikipedia",
     url: "wikipedia"
+  },
+  {
+    name: "フォーム",
+    url: "goog/form"
   }
   /* {
     name: "スポーツ",
