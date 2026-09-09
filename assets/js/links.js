@@ -30,6 +30,10 @@ export const links = [{
     url: "bds",
   },
   {
+    name: "iPhone 18",
+    url: "iphone18"
+  },
+  {
     name: "トモズ",
     url: "tomods",
     image: "/assets/img/bds-priority.png"
@@ -67,10 +71,6 @@ export const links = [{
   {
     name: "Spotify",
     url: "spotify"
-  },
-  {
-    name: "iPhone 17",
-    url: "iphone17"
   },
   {
     name: "Ikea、Nestlé",
