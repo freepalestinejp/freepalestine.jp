@@ -30,6 +30,10 @@ export const links = [{
     url: "bds",
   },
   {
+    name: "パレスチナ関連重要な日付",
+    url: "days"
+  },
+  {
     name: "iPhone 18",
     url: "iphone18"
   },
