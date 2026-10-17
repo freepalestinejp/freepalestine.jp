@@ -14,7 +14,7 @@
 <body>
   <main>
     <div class="logoContainer">
-      <a href="/flag"><img class="logo" src="/assets/img/logo.png" alt="Palestinian flag"/></a>
+      <a href="/flag"><img class="logo" src="/assets/img/logo.png" alt="FreePalestine.jp logo"/></a>
     </div>
     <div class="start">
       <div>FreePalestine.jp</div>
