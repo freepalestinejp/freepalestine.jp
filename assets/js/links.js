@@ -30,6 +30,10 @@ export const links = [{
     url: "bds",
   },
   {
+    name: "Free Okinawa | 沖縄",
+    url: "okinawa",
+  },
+  {
     name: "パレスチナ関連重要な日付",
     url: "days"
   },
